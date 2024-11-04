@@ -6,7 +6,7 @@
 <br/>
 
 ## 문제 풀이 환경
-- IDE : Anaconda3 2022-10![이미지입니다!][Image]
+- IDE : Anaconda3 2022-10
 - Language : Python
 
 <br/>
