@@ -2,7 +2,7 @@
 
 ## 레포지토리 소개
 - 백준 온라인 저지의 [단계별로 풀어보기](https://www.acmicpc.net/step)에서 1~7단계를 풀이한 코드를 저장함.
-- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)를 풀이한 코드를 저장함.
+- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)와 [Class 1으로 구분된 문제](https://solved.ac/class?class=1)를 풀이한 코드를 저장함.
 
 <br/>
 
@@ -28,21 +28,23 @@
 <br/>
 
 ## 커밋한 파일 설명
-- baekjoonChap01.ipynb : 단계별로 풀어보기의 1단계인 입출력과 사칙연산을 풀이한 파일
-- baekjoonChap02.ipynb : 단계별로 풀어보기의 2단계인 조건문을 풀이한 파일
-- baekjoonChap03.ipynb : 단계별로 풀어보기의 3단계인 반복문을 풀이한 파일
-- baekjoonChap04.ipynb : 단계별로 풀어보기의 4단계인 1차원 배열을 풀이한 파일
-- baekjoonChap05.ipynb : 단계별로 풀어보기의 5단계인 문자열을 풀이한 파일
-- baekjoonChap06.ipynb : 단계별로 풀어보기의 6단계인 심화 1을 풀이한 파일
-- baekjoonChap07.ipynb : 단계별로 풀어보기의 7단계인 2차원 배열을 풀이한 파일
-- solvedAcSprout.ipynb : solved.ac의 새싹 문제를 풀이한 파일
-  <br/>
-  ※ baekjoonChap01.ipynb ~ baekjoonChap07.ipynb에서 풀이한 문제 제외
+|No.|파일명|설명|비고|
+|:---:|:------|:------|:-----|
+|1|baekjoonChap01.ipynb|단계별로 풀어보기의 1단계인 입출력과 사칙연산을 풀이한 파일|-|
+|2|baekjoonChap02.ipynb|단계별로 풀어보기의 2단계인 조건문을 풀이한 파일|-|
+|3|baekjoonChap03.ipynb|단계별로 풀어보기의 3단계인 반복문을 풀이한 파일|-|
+|4|baekjoonChap04.ipynb|단계별로 풀어보기의 4단계인 1차원 배열을 풀이한 파일|-|
+|5|baekjoonChap05.ipynb|단계별로 풀어보기의 5단계인 문자열을 풀이한 파일|-|
+|6|baekjoonChap06.ipynb|단계별로 풀어보기의 6단계인 심화 1을 풀이한 파일|-|
+|7|baekjoonChap07.ipynb|단계별로 풀어보기의 7단계인 2차원 배열을 풀이한 파일|-|
+|8|solvedAcSprout.ipynb|solved.ac의 새싹 문제를 풀이한 파일|위 파일에서 풀이한 문제 제외|
+|9|solvedAcClass01.ipynb|solved.ac의 Class 1 문제를 풀이한 파일|위 파일에서 풀이한 문제 제외|
 
 <br/>
 
-## 각 단계별 풀이한 문제 목록 (총 74문제)
-### 1단계 : 입출력과 사칙연산 (13문제)
+## 풀이한 문제 목록 (79문제)
+### 단계별로 풀어보기 (65문제)
+#### 1단계 : 입출력과 사칙연산 (13문제)
 |문제번호|문제이름|
 |------|---|
 |[2557](https://www.acmicpc.net/problem/2557)|Hello World|
@@ -61,7 +63,7 @@
 
 <br/>
 
-### 2단계 : 조건문 (7문제)
+#### 2단계 : 조건문 (7문제)
 |문제번호|문제이름|
 |------|---|
 |[1330](https://www.acmicpc.net/problem/1330)|두 수 비교하기|
@@ -74,7 +76,7 @@
 
 <br/>
 
-### 3단계 : 반복문 (12문제)
+#### 3단계 : 반복문 (12문제)
 |문제번호|문제이름|
 |------|---|
 |[2739](https://www.acmicpc.net/problem/2739)|구구단|
@@ -92,7 +94,7 @@
 
 <br/>
 
-### 4단계 : 1차원 배열 (10문제)
+#### 4단계 : 1차원 배열 (10문제)
 |문제번호|문제이름|
 |------|---|
 |[10807](https://www.acmicpc.net/problem/10807)|개수 세기|
@@ -108,7 +110,7 @@
 
 <br/>
 
-### 5단계 : 문자열 (11문제)
+#### 5단계 : 문자열 (11문제)
 |문제번호|문제이름|
 |------|---|
 |[27866](https://www.acmicpc.net/problem/27866)|문자와 문자열|
@@ -125,7 +127,7 @@
 
 <br/>
 
-### 6단계 : 심화 1 (8문제)
+#### 6단계 : 심화 1 (8문제)
 |문제번호|문제이름|
 |------|---|
 |[25083](https://www.acmicpc.net/problem/25083)|새싹|
@@ -139,7 +141,7 @@
 
 <br/>
 
-### 7단계 : 2차원 배열 (4문제)
+#### 7단계 : 2차원 배열 (4문제)
 |문제번호|문제이름|
 |------|---|
 |[2738](https://www.acmicpc.net/problem/2738)|행렬 덧셈|
@@ -149,7 +151,8 @@
 
 <br/>
 
-### solved.ac : 새싹 문제 (9문제)
+### solved.ac (14 문제)
+#### solved.ac : 새싹 문제 (9문제)
 |문제분류|문제번호|문제이름|
 |------|------|---|
 |출력|[10699](https://www.acmicpc.net/problem/10699)|오늘 날짜|
@@ -161,3 +164,12 @@
 |문자열|[2754](https://www.acmicpc.net/problem/2754)|학점계산|
 |함수|[15964](https://www.acmicpc.net/problem/15964)|이상한 기호|
 |함수|[2475](https://www.acmicpc.net/problem/2475)|검증수수|
+
+#### solved.ac : Class 1 문제 (5문제)
+|문제번호|문제이름|
+|------|---|
+|[31403](https://www.acmicpc.net/problem/31403)|A + B - C|
+|[10250](https://www.acmicpc.net/problem/10250)|ACM 호텔|
+|[2577](https://www.acmicpc.net/problem/2577)|숫자의 개수|
+|[2920](https://www.acmicpc.net/problem/2920)|음계|
+|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|
