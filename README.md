@@ -2,7 +2,7 @@
 
 ## 레포지토리 소개
 - 백준 온라인 저지의 [단계별로 풀어보기](https://www.acmicpc.net/step)에서 1~7단계를 풀이한 코드를 저장함.
-- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)를 풀어보았다.
+- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)를 풀이한 코드를 저장함.
 
 <br/>
 
@@ -35,6 +35,9 @@
 - baekjoonChap05.ipynb : 단계별로 풀어보기의 5단계인 문자열을 풀이한 파일
 - baekjoonChap06.ipynb : 단계별로 풀어보기의 6단계인 심화 1을 풀이한 파일
 - baekjoonChap07.ipynb : 단계별로 풀어보기의 7단계인 2차원 배열을 풀이한 파일
+- solvedAcSprout.ipynb : solved.ac의 새싹 문제를 풀이한 파일
+  <br/>
+  ※ baekjoonChap01.ipynb ~ baekjoonChap07.ipynb에서 풀이한 문제 제외
 
 <br/>
 
@@ -143,3 +146,18 @@
 |[2566](https://www.acmicpc.net/problem/2566)|최댓값|
 |[10798](https://www.acmicpc.net/problem/10798)|세로읽기|
 |[2563](https://www.acmicpc.net/problem/2563)|색종이|
+
+<br/>
+
+### 새싹 문제(총 9문제)
+|문제분류|문제번호|문제이름|
+|------|------|---|
+|출력|[10699](https://www.acmicpc.net/problem/10699)|오늘 날짜|
+|출력|[7287](https://www.acmicpc.net/problem/7287)|등록|
+|조건|[2420](https://www.acmicpc.net/problem/2420)|사파리월드|
+|반복|[2741](https://www.acmicpc.net/problem/2741)|N 찍기|
+|반복|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|
+|문자열|[2744](https://www.acmicpc.net/problem/2744)|대소문자 바꾸기|
+|문자열|[2754](https://www.acmicpc.net/problem/2754)|학점계산|
+|함수|[15964](https://www.acmicpc.net/problem/15964)|이상한 기호|
+|함수|[2475](https://www.acmicpc.net/problem/2475)|검증수수|
