@@ -165,6 +165,8 @@
 |함수|[15964](https://www.acmicpc.net/problem/15964)|이상한 기호|
 |함수|[2475](https://www.acmicpc.net/problem/2475)|검증수수|
 
+<br/>
+
 #### solved.ac : Class 1 문제 (5문제)
 |문제번호|문제이름|
 |------|---|
