@@ -1,13 +1,29 @@
 # baekjoon-python-practice
 
 ## 레포지토리 소개
-백준 온라인 저지의 단계별로 풀어보기(https://www.acmicpc.net/step) 를 풀어보았다.
+- 백준 온라인 저지의 [단계별로 풀어보기](https://www.acmicpc.net/step)에서 1~7단계를 풀이한 코드를 저장함.
+- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)를 풀어보았다.
 
 <br/>
 
+## 풀이 기간
+2024.11.05 ~ 2024.11.08
+
+<br/>
+
+
 ## 문제 풀이 환경
-- IDE : Anaconda3 2022-10
-- Language : Python
+- Language: Python 3.9.13
+- IDE: Anaconda3 2022-10
+- Text Editor: Visual Studio Code
+  - Extensions
+    - Python
+    - Pylance
+    - Python Debugger
+    - Jupyter
+    - Jupyter Cell Tags
+    - Jupyter Keymap
+    - Jupyter Slide Show
 
 <br/>
 
