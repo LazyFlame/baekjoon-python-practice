@@ -2,7 +2,7 @@
 
 ## 레포지토리 소개
 - 백준 온라인 저지의 [단계별로 풀어보기](https://www.acmicpc.net/step)에서 1~7단계를 풀이한 코드를 저장함.
-- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)와 [Class 1으로 구분된 문제](https://solved.ac/class?class=1)를 풀이한 코드를 저장함.
+- solved.ac에서 [새싹으로 구분된 문제](https://solved.ac/problems/sprout)와 [Class 1로 구분된 문제](https://solved.ac/class?class=1)를 풀이한 코드를 저장함.
 
 <br/>
 
